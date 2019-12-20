@@ -1,2 +1,9 @@
 
 model_validation/.ipynb_checkpoints/model_selection_techniques-checkpoint.ipynb
+transfer_learning/.ipynb_checkpoints/tl_classification-checkpoint.ipynb
+transfer_learning/cats_dogs_basic_cnn.h5
+transfer_learning/sampleSubmission.csv
+transfer_learning/test1.zip
+*.jpg
+*.zip
+*.h5
