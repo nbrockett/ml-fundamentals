@@ -1,2 +1,2 @@
-# ml_fundamentals
- Fundamental state-of-the-art methods used in machine learning
+# ml-fundamentals
+ Fundamental machine learning methods

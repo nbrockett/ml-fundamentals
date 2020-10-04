@@ -8,3 +8,5 @@ transfer_learning/test1.zip
 *.zip
 *.h5
 recurrent_neural_networks/.ipynb_checkpoints/lstm_sentiment-checkpoint.ipynb
+
+.vscode
